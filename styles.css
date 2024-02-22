@@ -1,0 +1,54 @@
+.container {
+    display: grid;
+    margin-left: 3%;
+    margin-right: 3%;
+    background-color: #0F1035;
+
+    grid-template-columns: auto auto ;
+    grid-template-rows: repeat(6, auto) ;
+    grid-gap: 3px;
+
+}
+
+img {
+    width: 650px;
+    height: 400px
+    
+}
+
+#title {
+
+    color: whitesmoke;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    margin-top: 100px;
+    margin-left: 0px;
+    margin-right: 150px;
+    text-align: center;
+
+}
+
+.imdb {
+    width: 50px;
+    height: 50px;
+    
+}
+
+
+#brief {
+    background-color: #7FC7D9;
+    grid-column-start: span 2;
+    padding: 5%;
+    
+    
+}
+
+#cast {
+    background-color: #DCF2F1;
+}
+
+footer {
+    background-color: #365486;
+    text-align: center;
+    grid-column-start: span 2;
+}

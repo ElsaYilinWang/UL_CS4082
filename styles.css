@@ -1,0 +1,70 @@
+
+.card {
+    width: 25rem;
+    margin-left: 5%;
+}
+
+.job1 {
+    background-color: lightpink;
+    border: white solid;
+    padding-top: 1%;
+    
+}
+
+.job2 {
+    background-color: lightseagreen;
+    border: white solid;
+    padding-top: 1%;
+
+    
+}
+
+.job3 {
+    background-color: bisque;
+    border: white solid;
+    padding-top: 1%;
+    
+}
+
+#heading {
+    
+    margin-left: 15%; 
+
+}
+
+#surprise-me {
+    margin-top: 5%;
+    margin-left: 45%;
+    margin-bottom: 5%;
+}
+
+#display-projects {
+    margin-left: 20%;
+    height: 950px;
+    width: 900px;
+    background-color: blanchedalmond;
+    border-radius: 5%;
+    margin-bottom: 5%;
+
+}
+
+#display-projects img {
+    height: 55%;
+    width: 55%;
+}
+
+#display-projects h4{
+    padding-top: 5%;
+}
+
+#display-projects p{
+    margin-left: 12%;
+    margin-right: 12%;
+    padding: 3%;
+}
+
+.text-placeholder{
+    margin-top:5%;
+    padding-top: 8%;
+    padding-bottom: 12%;
+}
